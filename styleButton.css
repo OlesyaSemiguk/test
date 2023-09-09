@@ -1,0 +1,33 @@
+.button {
+  position: absolute;
+  border-radius: 40px;
+  color: white;
+  width: 41px;
+  height: 41px;
+  background-image: url(/assets/Vector\ 11.png);
+  background-repeat: no-repeat;
+  background-position: 15px 15px;
+}
+.button.active {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 11px 15px 11px 40px;
+  background-image: url(/assets/Vector\ -.png);
+  background-repeat: no-repeat;
+  background-position: 15px 18px;
+}
+.button.active .button_content {
+  display: block;
+  height: 16px;
+}
+.button_content {
+  display: none;
+}
+
+.button_blue {
+  background-color: rgba(56, 119, 238, 0.7);
+}
+.button_green {
+  background-color: rgba(106, 191, 75, 0.7);
+}

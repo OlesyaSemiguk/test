@@ -1,0 +1,100 @@
+@media (min-aspect-ratio: 1920/1080) {
+  .inn {
+    top: 11.7vw;
+    left: 71.5%;
+  }
+
+  .hotel {
+    top: 14.7vw;
+    left: 30.2%;
+  }
+
+  .registration {
+    top: 24.7vw;
+    left: 73.6%;
+  }
+
+  .pavilion {
+    top: 32.7vw;
+    left: 56.3%;
+  }
+
+  .bridge {
+    top: 37.1vw;
+    left: 23.2%;
+  }
+
+  .building {
+    top: 37.1vw;
+    left: 82.9%;
+  }
+
+  .entrance {
+    top: 21vw;
+    left: 59.8%;
+  }
+
+  .stadium {
+    top: 25.1vw;
+    left: 35.8%;
+  }
+
+  .building1 {
+    top: 34.8vw;
+    left: 68%;
+  }
+  .apartments {
+    top: 41.1vw;
+    left: 57.6%;
+  }
+}
+@media (max-aspect-ratio: 1920/1080) {
+  .inn {
+    top: 20.8%;
+    left: 127.1vh;
+  }
+
+  .hotel {
+    top: 26.1%;
+    left: 53.7vh;
+  }
+
+  .registration {
+    top: 43.98%;
+    left: 130.9vh;
+  }
+
+  .pavilion {
+    top: 58.2%;
+    left: 100vh;
+  }
+
+  .bridge {
+    top: 66.1%;
+    left: 41.3vh;
+  }
+
+  .building {
+    top: 66.1%;
+    left: 147.5vh;
+  }
+
+  .entrance {
+    top: 37.4%;
+    left: 106.3vh;
+  }
+
+  .stadium {
+    top: 44.6%;
+    left: 63.61vh;
+  }
+
+  .building1 {
+    top: 62%;
+    left: 120.9vh;
+  }
+  .apartments {
+    top: 73.1%;
+    left: 102.5vh;
+  }
+}
