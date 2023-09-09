@@ -2,12 +2,11 @@
 @import 'styleButton.css';
 @import 'buttonPosition.css';
 body {
-  cursor: url(./assets/Vector.png), auto;
+  cursor: url(assets/Vector.png), auto;
 }
 .container {
   position: absolute;
-  background: url(./assets/carnaby-82KWr7KHwDg-unsplash\ 1.png) 0px 0px
-    no-repeat;
+  background: url(assets/carnaby-82KWr7KHwDg-unsplash\ 1.png) 0px 0px no-repeat;
   background-size: cover;
   font-family: 'Arial';
   font-size: 14px;
